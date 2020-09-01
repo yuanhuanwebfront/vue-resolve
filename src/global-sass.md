@@ -11,8 +11,8 @@ module.exports = {
         loaderOptions: {
             scss: {
                 prependData: `
-					@import "scss文件路径";
-				`
+		   @import "scss文件路径";
+		`
             }
         }
     }
